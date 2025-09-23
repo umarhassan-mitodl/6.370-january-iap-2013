@@ -1,0 +1,52 @@
+{
+  "term": "January IAP",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ],
+    [
+      "Fine Arts",
+      "Game Design"
+    ]
+  ],
+  "legacy_uid": "3e9ee8ca-d97c-bcfa-874c-1d5865da3b9f",
+  "instructors": {
+    "content": [
+      "7565fbba-f770-231e-ec44-fdb140248e0b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7a9458fa-1205-ca52-7ba8-93f8188b6933",
+    "website": "6-370-the-battlecode-programming-competition-january-iap-2013"
+  },
+  "course_title": "The Battlecode Programming Competition",
+  "course_description": "This course is conducted as an artificial intelligence programming contest in Java. Students work in teams to program virtual robots to play Battlecode, a real-time strategy game. Optional lectures are provided on topics and programming practices relevant to the game, and students learn and improve their programming skills experientially. The competition culminates in a live Battlecode tournament.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.370",
+  "course_image_thumbnail": {
+    "content": "2d1496d5-caea-79cc-3d66-c4fe65b3657d",
+    "website": "6-370-the-battlecode-programming-competition-january-iap-2013"
+  },
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "site_uid": "8201ee70-9c48-42fd-86d1-c3e458c8f03c",
+  "site_short_id": "6.370-january-iap-2013",
+  "site_url_path": "courses/6-370-the-battlecode-programming-competition-january-iap-2013",
+  "title": "Course Metadata"
+}

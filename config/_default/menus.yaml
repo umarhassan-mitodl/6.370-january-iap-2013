@@ -1,0 +1,27 @@
+leftnav:
+- identifier: ef70d0e2-f93b-69e0-6a08-03076cbe1538
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 15a91d1a-c942-74ed-0464-0d8b835f1229
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2b6e95b3-f695-35a9-0008-da93ff6d1668
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
+  name: Specs and Software
+  pageRef: /pages/specs-and-software/
+  weight: 40
+- identifier: ae7def09-6e67-e243-144a-c62c695bd09f
+  name: Gameplay Specs
+  pageRef: /pages/specs-and-software/battlecode-2013-gameplay-specs
+  parent: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
+  weight: 50
+- identifier: 5c284dcb-09b7-b8e2-b704-cf0a29e6f23a
+  name: Software
+  pageRef: /pages/specs-and-software/battlecode-2013-software
+  parent: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
+  weight: 60
