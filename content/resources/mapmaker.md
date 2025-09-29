@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/2f7809b0c8ad59122e792da1f05c8ab0_mapmaker.nb
 file_size: 20493
 file_type: application/mathematica
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/1116c4ead4e91191965ff489ee13f411_RobotPlayer.scala
 file_size: 449
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

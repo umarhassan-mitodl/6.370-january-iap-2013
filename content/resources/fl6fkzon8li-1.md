@@ -4,6 +4,8 @@ description: ''
 file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/5b4cb73b47ef312fa5e4470fee7d7460_Fl6fKzon8LI.pdf
 file_size: 93072
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

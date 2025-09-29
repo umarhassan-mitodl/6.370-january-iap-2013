@@ -2,6 +2,8 @@
 content_type: video_gallery
 description: This section presents videos of optional lectures that introduce how
   to get started with Battlecode, how to write a bot, and techniques relevant to gameplay.
+hide_download: true
+hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
@@ -23,7 +25,7 @@ videos:
   website: 6-370-the-battlecode-programming-competition-january-iap-2013
 ---
 
-The following are videos of the optional lectures that introduce how to get started with Battlecode, how to write a bot, and techniques relevant to gameplay. The full recording of the {{% resource_link "2ee51ac5-8fc5-4591-98c2-887a61a2b52c" "2013 final tournament" %}} can be found on MIT Video.
+The following are videos of the optional lectures that introduce how to get started with Battlecode, how to write a bot, and techniques relevant to gameplay. The full recording of the [2013 final tournament](http://video.mit.edu/watch/battlecode-2013-finals-13672/) can be found on MIT Video.
 
 {{< video-gallery "2b6e95b3-f695-35a9-0008-da93ff6d1668" >}}
 

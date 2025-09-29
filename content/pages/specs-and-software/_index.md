@@ -4,6 +4,8 @@ description: This section provides an overview of Battlecode, the real-time stra
   game used to conduct an artificial intelligence programming contest in the course.
   This section also includes links to gameplay specs, guidelines on getting started,
   and software downloads.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Specs and Software
