@@ -15,7 +15,7 @@ video_metadata:
 ---
 « {{% resource_link "b953ba9d-34cd-a7ba-c5ff-0952e4179b9a" "Return to Specs and Software" %}}
 
-Instruction and information are provided on the following: [Overview](#overview), [System Requirements](#system-requirements), [Installation](#installation), [Running Matches](#running-matches), [Debugging your Player](#debugging-your-player), [Uploading your Player](#uploading-your-player), [Advanced Configuration](#advanced-configuration), [Appendix: Configuration Properties and Command-line Arguments](#appendix), [Scala](#scala)
+Instruction and information are provided on the following: {{% resource_link "750d3a6a-62b9-4046-94ac-cfc3be7af4ae" "Overview" %}}, {{% resource_link "03f0d87c-409d-4114-8caf-cd1f8b1cb3d1" "System Requirements" %}}, {{% resource_link "2e66023d-761e-43bf-b7a8-832a44299f10" "Installation" %}}, {{% resource_link "c2252d64-3f98-412e-a2f2-f50d195e7e98" "Running Matches" %}}, {{% resource_link "8890e4b9-82e0-4c5a-b58b-cfcfb602d232" "Debugging your Player" %}}, {{% resource_link "c209d3d8-1a1b-45f0-92df-0e267da36c96" "Uploading your Player" %}}, {{% resource_link "ceec3968-6bba-4f1a-a94a-3e3d9d7aead2" "Advanced Configuration" %}}, {{% resource_link "2c241906-9d1a-4d3f-ac5b-f100ec8164ff" "Appendix: Configuration Properties and Command-line Arguments" %}}, {{% resource_link "8040d7ee-4864-4fd5-9cf4-a687b0ec5ffd" "Scala" %}}
 
 ## {{< anchor "overview" >}}{{< /anchor >}}Overview
 
@@ -29,7 +29,7 @@ The Battlecode software consists of three major components:
 
 The Battlecode software requires:
 
-- [JDK 6.0](https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html) or higher
+- {{% resource_link "813ecda5-6450-47ab-bc1e-3b3448ae1044" "JDK 6.0" %}} or higher
 
 The following hardware is recommended for best performance:
 
@@ -42,7 +42,7 @@ Ensure that you are using the correct version of Java. You are using Java 5 if y
   [javac] Please remove or make sure it appears in the correct subdirectory of the classpath.
 ```
 
-We recommend that you install either [Apache Ant](http://ant.apache.org/), [Eclipse](https://www.eclipse.org/), or [Netbeans](https://netbeans.org).
+We recommend that you install either {{% resource_link "2b924ea9-c361-47bb-9e1e-55d0ddb7f284" "Apache Ant" %}}, {{% resource_link "7de5c6dc-a8bf-410b-a18c-3ff9a720dae6" "Eclipse" %}}, or {{% resource_link "30bf8ea4-6c0d-4792-945d-4546ea0bc491" "Netbeans" %}}.
 
 Battlecode will run on Java 7. Please be aware, however, that the scrimmage server runs Java 6, and it will not be able to compile your code if you use Java 7 specific language features.
 
@@ -267,6 +267,8 @@ Find unit by ID
 
 Pause
 
+ 
+
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -281,6 +283,6 @@ Quit
 
 ## {{< anchor "scala" >}}{{< /anchor >}}Scala
 
-Most contestants choose to write their players in Java, but we also support Scala (or a mix of Java and Scala). If you want to use Scala, you should download the [Scala compiler (JAR - 10.8MB)](/ans7870/6/6.370/iap13/scala-compiler-2.9.1.jar), [Scala library (JAR - 8.4MB)](/ans7870/6/6.370/iap13/scala-library-2.9.1.jar), and {{% resource_link "883bf3b8-7adf-861e-e3de-addcd0dabb1e" "jline (JAR)" %}}, and place them in your `lib` directory. You can also download a simple {{% resource_link "1116c4ea-d4e9-1191-965f-f489ee13f411" "example player (SCALA)" %}} written in Scala.
+Most contestants choose to write their players in Java, but we also support Scala (or a mix of Java and Scala). If you want to use Scala, you should download the {{% resource_link "d7d98618-fa11-410c-8c61-eeb0933949f2" "Scala compiler (JAR - 10.8MB)" %}}, {{% resource_link "1b5511a9-39a2-4285-9ef6-c2956b29c98c" "Scala library (JAR - 8.4MB)" %}}, and {{% resource_link "883bf3b8-7adf-861e-e3de-addcd0dabb1e" "jline (JAR)" %}}, and place them in your `lib` directory. You can also download a simple {{% resource_link "1116c4ea-d4e9-1191-965f-f489ee13f411" "example player (SCALA)" %}} written in Scala.
 
 « {{% resource_link "b953ba9d-34cd-a7ba-c5ff-0952e4179b9a" "Return to Specs and Software" %}}
