@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides an overview of the Battlecode Programming
   Competition and information on course meeting times, requirements, grading, scrimmages,
   and tournaments.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,11 +32,11 @@ This course is a great opportunity to learn to program or hone your skills furth
 Course Requirements
 -------------------
 
-To compete, individuals must sign up through the [Battlecode website](https://www.battlecode.org/), be on a team (even if it consists of only one person), and upload his/her resume. Non-MIT students are welcome to participate, but you must be a current MIT student to be eligible for prizes and competing in the final tournament.
+To compete, individuals must sign up through the {{% resource_link "e7021506-99f5-495a-9f4e-810b11fcc5cd" "Battlecode website" %}}, be on a team (even if it consists of only one person), and upload his/her resume. Non-MIT students are welcome to participate, but you must be a current MIT student to be eligible for prizes and competing in the final tournament.
 
 Teams must have one to four people, but can be a mix of MIT and non-MIT students.
 
-Experience in programming definitely helps in the competition, but everyone has to start somewhere. The supported programming languages are [Java](http://www.oracle.com/technetwork/java/index.html) and [Scala](http://www.scala-lang.org/).
+Experience in programming definitely helps in the competition, but everyone has to start somewhere. The supported programming languages are {{% resource_link "0004be52-bc13-4f80-b88e-3cbc7c8f99d2" "Java" %}} and {{% resource_link "d15e5141-46da-4564-b35f-050634045d06" "Scala" %}}.
 
 Grading
 -------
@@ -67,7 +65,7 @@ The sprint tournament is a single-elimination tournament. One week after spec re
 The seeding tournament is a double-elimination tournament that takes place one week after the sprint tournament. Contestants are seeded based on scrimmage ranking, and play continues until there is only one undefeated team. The results of this tournament are used to determine seeds for the qualifying and newbie tournaments. Teams are ranked by the following criteria, in order:
 
 *   Furthest round achieved.
-*   [Bayesian Elo rating](http://remi.coulom.free.fr/Bayesian-Elo/#theory) for the tournament (computed on a per-game basis, not a per-match basis).
+*   {{% resource_link "33ce398d-a7ea-4587-9b7e-3481c0072f17" "Bayesian Elo rating" %}} for the tournament (computed on a per-game basis, not a per-match basis).
 
 ### Qualifying Tournament
 
